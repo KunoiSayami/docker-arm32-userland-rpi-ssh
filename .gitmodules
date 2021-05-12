@@ -1,0 +1,3 @@
+[submodule "docker-raspberrypi-userland"]
+	path = docker-raspberrypi-userland
+	url = https://github.com/67au/docker-raspberrypi-userland.git
